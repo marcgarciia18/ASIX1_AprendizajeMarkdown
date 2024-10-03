@@ -47,3 +47,12 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ## Como poner una imagen
 
 ![JcReyes](https://github.com/marcgarciia18/ASIX1_AprendizajeMarkdown/blob/main/Imagenes/JC.jpg "ReyDeEspaña")
+
+
+## Como añadir tablas
+
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|:----------:|:---------------:|:----------:|
+|SMX2|Curso 23-24 |25|
+|**ASIX1**|Curso 24-25|33|
+|DAW2|Curso 24-25|29|
