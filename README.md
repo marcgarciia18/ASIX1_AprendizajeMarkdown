@@ -46,4 +46,4 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ## Como poner una imagen
 
-![JcReyes](C:\Repositorios\ASIX1_AprendizajeMarkdown\Imagenes "ReyDeEspaña")
+![JcReyes](https://github.com/marcgarciia18/ASIX1_AprendizajeMarkdown/blob/main/Imagenes/JC.jpg "ReyDeEspaña")
